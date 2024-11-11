@@ -1,4 +1,1 @@
-Good
-Bad
-Fail
-Git
+DRUGOY TEXT
